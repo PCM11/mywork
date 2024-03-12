@@ -4,5 +4,5 @@
 
 I am a student at [ATU](https://www.atu.ie/).
 
-![Penguins](https://www.gabemednick.com/post/penguin/)
+![Penguins](https://www.gabemednick.com/post/penguin/featured.png)
 
