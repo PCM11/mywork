@@ -4,5 +4,6 @@
 
 I am a student at [ATU](https://www.atu.ie/).
 
-![Penguins](https://www.gabemednick.com/post/penguin/featured.png)
+![Penguins] (https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
+
 
