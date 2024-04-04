@@ -1,28 +1,15 @@
 # My Work
 
-The Palmerpenguins dataset is designed for data exploration and visualisation.
-
 
 ## About This Project
-This dataset was created by Allison Horst, Alison Hill, Dr Kristen Gorman and the Palmer Station in Antarctica. The data was collected from 344 adult penguins and includes the following variables:
--Species: Adelie, Gentoo, Chinstrap
-
--Bill Length (mm)
-
--Bill Depth (mm)
-
--Flipper Length(mm)
-
--Body Mass(g)
-
--Sex
-
--Year
+This dataset was created by Allison Horst, Alison Hill, Dr Kristen Gorman at the Palmer Station in Antarctica. 
+It was collected from 344 adult penguins and includes the measurements for penguin species, islands in Palmer 
+Archipelago, size (flipper length, body mass, bill dimensions), and sex.
 
 It is available [on Github](https://allisonhorst.github.io/palmerpenguins/)
 
 ## Use of This Project
-Its purpose is to provide a rich dataset for exploring and visualizing data, offering an alternative to a highhy over used Iris dataset.
+The Palmerpenguin dataset provide a rich dataset for exploration and visualisation of data, offering an alternative to a highhy over used Iris dataset.
 
 
 ## Get Started
