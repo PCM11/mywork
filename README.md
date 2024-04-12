@@ -6,7 +6,7 @@ This dataset was created by Allison Horst, Alison Hill, Dr Kristen Gorman at the
 It was collected from 344 adult penguins and includes the measurements for penguin species, islands in Palmer 
 Archipelago, size (flipper length, body mass, bill dimensions), and sex.
 
-It is available [on Github](https://allisonhorst.github.io/palmerpenguins/)
+This dataset is available for more exploration [on Github](https://allisonhorst.github.io/palmerpenguins/).
 
 ## Use of This Project
 The Palmerpenguin dataset provide a rich dataset for exploration and visualisation of data, offering an alternative to a highhy over used Iris dataset.
@@ -24,6 +24,7 @@ To further explore this dataset you need to download python, which can be instal
 
 ## Image
 ![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
+![Image](https://imgur.com/orZWHly)
 
 ** Author **
 Phumi Tshidi
