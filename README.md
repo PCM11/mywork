@@ -24,7 +24,7 @@ To further explore this dataset you need to download python, which can be instal
 
 ## Image
 ![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
-![Image](https://imgur.com/orZWHly)
+![Image](https://miro.medium.com/v2/resize:fit:786/format:webp/0*V1ED9g49d51KpYv9.png)
 
 ** Author **
 Phumi Tshidi
