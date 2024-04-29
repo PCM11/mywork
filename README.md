@@ -1,4 +1,4 @@
-# My Work                                                                           ![image](https://allisonhorst.github.io/palmerpenguins/logo.png)
+# My Work
 
 <a target="_blank" href="https://colab.research.google.com/github/PCM11/mywork/blob/
 main/penguins.ipynb">
@@ -6,6 +6,8 @@ main/penguins.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In 
 Colab"/>
 </a>
+
+![Image](https://miro.medium.com/v2/resize:fit:786/format:webp/0*V1ED9g49d51KpYv9.png)
 
 This dataset is available for more exploration [on Github](https://allisonhorst.github.io/palmerpenguins/).
 
@@ -36,9 +38,9 @@ It opens the `penguins.ipynb` notebook in [Google Colab](https://colab.research.
 
 To further explore this dataset you need to download python, which can be installed through [anaconda](https://www.anaconda.com/download), and notebook editor, which can be found in [Visual Studio Code](https://code.visualstudio.com/)
 
-## Image
+## License
 
-![Image](https://miro.medium.com/v2/resize:fit:786/format:webp/0*V1ED9g49d51KpYv9.png)
+Data are available by [CC-0](https://creativecommons.org/public-domain/cc0/) license in accordance with the [Palmer Station LTER Data Policy](https://pallter.marine.rutgers.edu/data/) and the [LTER Data Access Policy for Type I data](https://lternet.edu/data-access-policy/).
 
 ## Author
 
