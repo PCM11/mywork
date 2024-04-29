@@ -1,22 +1,26 @@
 # My Work
 
- <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+<a target="_blank" href="https://colab.research.google.com/github/PCM11/mywork/blob/
+main/penguins.ipynb">
+
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In 
+Colab"/>
 </a>
+
+![image](https://allisonhorst.github.io/palmerpenguins/logo.png)
 
 This dataset is available for more exploration [on Github](https://allisonhorst.github.io/palmerpenguins/).
 
 ## About the data
 
-The [Palmer penguins Dataset](https://allisonhorst.github.io/palmerpenguins/) by Allison Horst, Alison Hill and Dr Kristen Gorman contains data for 344 adult penguins of 3 different species (Adelie, Gentoo and Chinstrap)  from 3 differrent islands (Biscoe, Torgeesen and Dream) in the Palmer Archipelago, Antarctica.
+The [Palmer penguins Dataset](https://allisonhorst.github.io/palmerpenguins/) by Allison Horst, Alison Hill and Dr Kristen Gorman contains data for 344 adult penguins of 3 different species (Adelie, Gentoo and Chinstrap), from 3 differrent islands (Biscoe, Torgeesen and Dream) in the Palmer Archipelago, Antarctica.
 
 It contains two datasets, one called *penguins* and the other called *penguins_raw*.
 
-*Penguin* is a siimplified version of the raw data, more information can be found [here](https://allisonhorst.github.io/palmerpenguins/reference/penguins.html).
+*Penguin* is a simplified version of the raw data,and more information can be found [here](https://allisonhorst.github.io/palmerpenguins/reference/penguins.html).
 
 *Penguin Raw* includes nesting observations, penguin size data, and isotope measurements from blood samples for adult Adélie, Chinstrap and Gentoo penguins.
 More details can be found [here](https://allisonhorst.github.io/palmerpenguins/reference/penguins_raw.html)
-
-More information about the dataset is available in [its official documentation](https://allisonhorst.github.io/palmerpenguins/).
 
 ## Usage
 
@@ -36,7 +40,6 @@ To further explore this dataset you need to download python, which can be instal
 
 ## Image
 
-![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
 ![Image](https://miro.medium.com/v2/resize:fit:786/format:webp/0*V1ED9g49d51KpYv9.png)
 
 ## Author
