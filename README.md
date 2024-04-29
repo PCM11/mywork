@@ -1,4 +1,4 @@
-# My Work
+# My Work                                                                           ![image](https://allisonhorst.github.io/palmerpenguins/logo.png)
 
 <a target="_blank" href="https://colab.research.google.com/github/PCM11/mywork/blob/
 main/penguins.ipynb">
@@ -6,8 +6,6 @@ main/penguins.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In 
 Colab"/>
 </a>
-
-![image](https://allisonhorst.github.io/palmerpenguins/logo.png)
 
 This dataset is available for more exploration [on Github](https://allisonhorst.github.io/palmerpenguins/).
 
