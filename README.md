@@ -6,7 +6,7 @@
 Colab"/>
 </a>
 
-![Image](https://miro.medium.com/v2/resize:fit:786/format:webp/0*V1ED9g49d51KpYv9.png)
+![Image](https://raw.githubusercontent.com/allisonhorst/palmerpenguins/main/man/figures/culmen_depth.png)
 
 This dataset is available for more exploration [on Github](https://allisonhorst.github.io/palmerpenguins/).
 
@@ -63,6 +63,7 @@ Torgersen).
 ## Usage
 
 It provides a rich dataset for exploration and visualisation of data, offering an alternative to a highly over used Iris dataset.
+
 
 ## License
 
