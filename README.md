@@ -6,7 +6,7 @@
 Colab"/>
 </a>
 
-![Image](https://raw.githubusercontent.com/allisonhorst/palmerpenguins/main/man/figures/culmen_depth.png)
+![Image](https://www.gabemednick.com/post/penguin/featured.png)
 
 This dataset is available for more exploration [on Github](https://allisonhorst.github.io/palmerpenguins/).
 
