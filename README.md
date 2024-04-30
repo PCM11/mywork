@@ -2,8 +2,7 @@
 
 <a target="_blank" href="https://colab.research.google.com/github/PCM11/mywork/blob/main/penguins.ipynb">
 
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In 
-Colab"/>
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 ![Image](https://www.gabemednick.com/post/penguin/featured.png)
